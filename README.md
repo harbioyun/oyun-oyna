@@ -1,4 +1,3 @@
-oyun-oyna
-=========
-
-oyun oyna
+<p><a title="en güzel oyunlar" href="http://www.panteroyun.com/" target="_blank">En güzel oyunlar</a> bu sitede, panteroyun adıyla bir marka olmaya çalışan bir oyun sitesi. Tasarımı ve göz kamaştırıcı arayüzüyle çocukların oyunlarını zevkle oynayabileceği bir platform.<span id="more-5249"></span></p>
+<p>Öncelikle sitede bulunan oyunlar piyasanın en güzel oyunlarından derlenmiş. Sitenin içeriği ve yapısına bakacak olursak, oyun hakkında yorumlar, oyun nasıl oynanır ? , oyunu indir, gibi bölümler var. İsterseniz oyunu indirebilir daha sonra tekrar oynayabilirsiniz.</p><p>Popüler oyunlar bölümünden, sitedeki en güzel oyunlara ulaşabilirsiniz. Beğenilen oyunlardan ise kullanıcıların en çok oynadıkları oyunlara ulaşabilirsiniz. Aradığınızı bulabilirsiniz.</p>
+<p>İstediğiniz oyunu favorilerinize ekleyip, daha sonra tekrardan oynayabilir, arkadaşlarınıza önerebilirsiniz. <a title="oyun oyna" href="http://www.panteroyun.com/" target="_blank">Oyun oyna</a>manın tadına bu siteyle varacaksınız.Ebeveynler;çocuklarınız bu sitede sosyal ve zihinsel gelişimlerini bozmayacak oyunları oynayacaklar.En <a title="kral oyun" href="http://www.panteroyun.com/" target="_blank">kral oyun</a>lara tek tıkla ulaşacak ve oyun oynamanın zevkine varacak.</p>
